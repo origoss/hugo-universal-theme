@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Universal</title>
+    <link>https://example.org/tags/</link>
+    <description>Recent content in Tags on Universal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 May 2020 21:49:20 +0200</lastBuildDate>
+    
+	<atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>cncf</title>
+      <link>https://example.org/tags/cncf/</link>
+      <pubDate>Sat, 02 May 2020 21:49:20 +0200</pubDate>
+      
+      <guid>https://example.org/tags/cncf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ksp</title>
+      <link>https://example.org/tags/ksp/</link>
+      <pubDate>Sat, 02 May 2020 21:49:20 +0200</pubDate>
+      
+      <guid>https://example.org/tags/ksp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kubecon</title>
+      <link>https://example.org/tags/kubecon/</link>
+      <pubDate>Sat, 02 May 2020 21:49:20 +0200</pubDate>
+      
+      <guid>https://example.org/tags/kubecon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kubernetes</title>
+      <link>https://example.org/tags/kubernetes/</link>
+      <pubDate>Sat, 02 May 2020 21:49:20 +0200</pubDate>
+      
+      <guid>https://example.org/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>origoss</title>
+      <link>https://example.org/tags/origoss/</link>
+      <pubDate>Sat, 02 May 2020 21:49:20 +0200</pubDate>
+      
+      <guid>https://example.org/tags/origoss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cloud native</title>
+      <link>https://example.org/tags/cloud-native/</link>
+      <pubDate>Fri, 02 Aug 2019 21:49:20 +0200</pubDate>
+      
+      <guid>https://example.org/tags/cloud-native/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>premier partner</title>
+      <link>https://example.org/tags/premier-partner/</link>
+      <pubDate>Tue, 02 Jul 2019 21:49:20 +0200</pubDate>
+      
+      <guid>https://example.org/tags/premier-partner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>redhat</title>
+      <link>https://example.org/tags/redhat/</link>
+      <pubDate>Tue, 02 Jul 2019 21:49:20 +0200</pubDate>
+      
+      <guid>https://example.org/tags/redhat/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Universal</title>
+    <link>https://example.org/categories/</link>
+    <description>Recent content in Categories on Universal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 May 2020 21:49:20 +0200</lastBuildDate>
+    
+	<atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>wfh</title>
+      <link>https://example.org/categories/wfh/</link>
+      <pubDate>Sat, 02 May 2020 21:49:20 +0200</pubDate>
+      
+      <guid>https://example.org/categories/wfh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diary</title>
+      <link>https://example.org/categories/diary/</link>
+      <pubDate>Mon, 02 Mar 2020 21:49:20 +0200</pubDate>
+      
+      <guid>https://example.org/categories/diary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>join</title>
+      <link>https://example.org/categories/join/</link>
+      <pubDate>Mon, 02 Sep 2019 21:49:20 +0200</pubDate>
+      
+      <guid>https://example.org/categories/join/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>announcement</title>
+      <link>https://example.org/categories/announcement/</link>
+      <pubDate>Tue, 02 Jul 2019 21:49:20 +0200</pubDate>
+      
+      <guid>https://example.org/categories/announcement/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

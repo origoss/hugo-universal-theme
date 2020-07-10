@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://example.org/blog/</loc>
+    <lastmod>2020-05-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/categories/</loc>
+    <lastmod>2020-05-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/tags/cncf/</loc>
+    <lastmod>2020-05-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/tags/ksp/</loc>
+    <lastmod>2020-05-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/tags/kubecon/</loc>
+    <lastmod>2020-05-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/tags/kubernetes/</loc>
+    <lastmod>2020-05-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/tags/origoss/</loc>
+    <lastmod>2020-05-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/tags/</loc>
+    <lastmod>2020-05-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/</loc>
+    <lastmod>2020-05-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/blog/2020/05/02/wfh/</loc>
+    <lastmod>2020-05-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/categories/wfh/</loc>
+    <lastmod>2020-05-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/categories/diary/</loc>
+    <lastmod>2020-03-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/blog/2020/03/02/diary/</loc>
+    <lastmod>2020-03-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/categories/join/</loc>
+    <lastmod>2019-09-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/blog/2019/09/02/sponsor/</loc>
+    <lastmod>2019-09-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/tags/cloud-native/</loc>
+    <lastmod>2019-08-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/blog/2019/08/02/join/</loc>
+    <lastmod>2019-08-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/categories/announcement/</loc>
+    <lastmod>2019-07-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/tags/premier-partner/</loc>
+    <lastmod>2019-07-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/blog/2019/07/02/announce/</loc>
+    <lastmod>2019-07-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/tags/redhat/</loc>
+    <lastmod>2019-07-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/faq/</loc>
+  </url>
+  
+</urlset>
