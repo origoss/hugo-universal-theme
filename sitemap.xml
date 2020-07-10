@@ -3,120 +3,120 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.org/blog/</loc>
+    <loc>https://origoss.github.io/hugo-universal-theme/blog/</loc>
     <lastmod>2020-05-02T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://origoss.github.io/hugo-universal-theme/categories/</loc>
     <lastmod>2020-05-02T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/tags/cncf/</loc>
+    <loc>https://origoss.github.io/hugo-universal-theme/tags/cncf/</loc>
     <lastmod>2020-05-02T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/tags/ksp/</loc>
+    <loc>https://origoss.github.io/hugo-universal-theme/tags/ksp/</loc>
     <lastmod>2020-05-02T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/tags/kubecon/</loc>
+    <loc>https://origoss.github.io/hugo-universal-theme/tags/kubecon/</loc>
     <lastmod>2020-05-02T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/tags/kubernetes/</loc>
+    <loc>https://origoss.github.io/hugo-universal-theme/tags/kubernetes/</loc>
     <lastmod>2020-05-02T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/tags/origoss/</loc>
+    <loc>https://origoss.github.io/hugo-universal-theme/tags/origoss/</loc>
     <lastmod>2020-05-02T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://origoss.github.io/hugo-universal-theme/tags/</loc>
     <lastmod>2020-05-02T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://origoss.github.io/hugo-universal-theme/</loc>
     <lastmod>2020-05-02T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/blog/2020/05/02/wfh/</loc>
+    <loc>https://origoss.github.io/hugo-universal-theme/blog/2020/05/02/wfh/</loc>
     <lastmod>2020-05-02T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/categories/wfh/</loc>
+    <loc>https://origoss.github.io/hugo-universal-theme/categories/wfh/</loc>
     <lastmod>2020-05-02T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/categories/diary/</loc>
+    <loc>https://origoss.github.io/hugo-universal-theme/categories/diary/</loc>
     <lastmod>2020-03-02T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/blog/2020/03/02/diary/</loc>
+    <loc>https://origoss.github.io/hugo-universal-theme/blog/2020/03/02/diary/</loc>
     <lastmod>2020-03-02T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/categories/join/</loc>
+    <loc>https://origoss.github.io/hugo-universal-theme/categories/join/</loc>
     <lastmod>2019-09-02T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/blog/2019/09/02/sponsor/</loc>
+    <loc>https://origoss.github.io/hugo-universal-theme/blog/2019/09/02/sponsor/</loc>
     <lastmod>2019-09-02T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/tags/cloud-native/</loc>
+    <loc>https://origoss.github.io/hugo-universal-theme/tags/cloud-native/</loc>
     <lastmod>2019-08-02T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/blog/2019/08/02/join/</loc>
+    <loc>https://origoss.github.io/hugo-universal-theme/blog/2019/08/02/join/</loc>
     <lastmod>2019-08-02T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/categories/announcement/</loc>
+    <loc>https://origoss.github.io/hugo-universal-theme/categories/announcement/</loc>
     <lastmod>2019-07-02T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/tags/premier-partner/</loc>
+    <loc>https://origoss.github.io/hugo-universal-theme/tags/premier-partner/</loc>
     <lastmod>2019-07-02T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/blog/2019/07/02/announce/</loc>
+    <loc>https://origoss.github.io/hugo-universal-theme/blog/2019/07/02/announce/</loc>
     <lastmod>2019-07-02T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/tags/redhat/</loc>
+    <loc>https://origoss.github.io/hugo-universal-theme/tags/redhat/</loc>
     <lastmod>2019-07-02T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/about/</loc>
+    <loc>https://origoss.github.io/hugo-universal-theme/about/</loc>
   </url>
   
   <url>
-    <loc>https://example.org/contact/</loc>
+    <loc>https://origoss.github.io/hugo-universal-theme/contact/</loc>
   </url>
   
   <url>
-    <loc>https://example.org/faq/</loc>
+    <loc>https://origoss.github.io/hugo-universal-theme/faq/</loc>
   </url>
   
 </urlset>

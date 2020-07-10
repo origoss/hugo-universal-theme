@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>wfh on Universal</title>
-    <link>https://example.org/categories/wfh/</link>
+    <link>https://origoss.github.io/hugo-universal-theme/categories/wfh/</link>
     <description>Recent content in wfh on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 02 May 2020 21:49:20 +0200</lastBuildDate>
     
-	<atom:link href="https://example.org/categories/wfh/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://origoss.github.io/hugo-universal-theme/categories/wfh/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>WFH</title>
-      <link>https://example.org/blog/2020/05/02/wfh/</link>
+      <link>https://origoss.github.io/hugo-universal-theme/blog/2020/05/02/wfh/</link>
       <pubDate>Sat, 02 May 2020 21:49:20 +0200</pubDate>
       
-      <guid>https://example.org/blog/2020/05/02/wfh/</guid>
+      <guid>https://origoss.github.io/hugo-universal-theme/blog/2020/05/02/wfh/</guid>
       <description>Hatodik hete dolgozunk otthonról. Most már mondhatjuk hogy belejöttünk. Közben két új kollégával bővült a csapatunk és az ő beilleszkedésük is gördülékenyen zajlott. Mi ezzel a hozzáállással és a speciális szaktudásunkban bízva alkalmazkodunk az új körülményekhez.</description>
     </item>
     

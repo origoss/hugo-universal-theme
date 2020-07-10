@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Universal</title>
-    <link>https://example.org/</link>
+    <link>https://origoss.github.io/hugo-universal-theme/</link>
     <description>Recent content on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 02 May 2020 21:49:20 +0200</lastBuildDate>
     
-	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://origoss.github.io/hugo-universal-theme/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>WFH</title>
-      <link>https://example.org/blog/2020/05/02/wfh/</link>
+      <link>https://origoss.github.io/hugo-universal-theme/blog/2020/05/02/wfh/</link>
       <pubDate>Sat, 02 May 2020 21:49:20 +0200</pubDate>
       
-      <guid>https://example.org/blog/2020/05/02/wfh/</guid>
+      <guid>https://origoss.github.io/hugo-universal-theme/blog/2020/05/02/wfh/</guid>
       <description>Hatodik hete dolgozunk otthonról. Most már mondhatjuk hogy belejöttünk. Közben két új kollégával bővült a csapatunk és az ő beilleszkedésük is gördülékenyen zajlott. Mi ezzel a hozzáállással és a speciális szaktudásunkban bízva alkalmazkodunk az új körülményekhez.</description>
     </item>
     
     <item>
       <title>Shape the cloud, not the client</title>
-      <link>https://example.org/blog/2020/03/02/diary/</link>
+      <link>https://origoss.github.io/hugo-universal-theme/blog/2020/03/02/diary/</link>
       <pubDate>Mon, 02 Mar 2020 21:49:20 +0200</pubDate>
       
-      <guid>https://example.org/blog/2020/03/02/diary/</guid>
+      <guid>https://origoss.github.io/hugo-universal-theme/blog/2020/03/02/diary/</guid>
       <description>A series of articles about our own experiences in the field of cloud native consulting. The first is about how to be independent of cloud service providers. #kubernetes #k8s #cloudnative #cncf #cloudnativediaries</description>
     </item>
     
     <item>
       <title>Kubecon sponsor</title>
-      <link>https://example.org/blog/2019/09/02/sponsor/</link>
+      <link>https://origoss.github.io/hugo-universal-theme/blog/2019/09/02/sponsor/</link>
       <pubDate>Mon, 02 Sep 2019 21:49:20 +0200</pubDate>
       
-      <guid>https://example.org/blog/2019/09/02/sponsor/</guid>
+      <guid>https://origoss.github.io/hugo-universal-theme/blog/2019/09/02/sponsor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Origoss joined CNCF</title>
-      <link>https://example.org/blog/2019/08/02/join/</link>
+      <link>https://origoss.github.io/hugo-universal-theme/blog/2019/08/02/join/</link>
       <pubDate>Fri, 02 Aug 2019 21:49:20 +0200</pubDate>
       
-      <guid>https://example.org/blog/2019/08/02/join/</guid>
+      <guid>https://origoss.github.io/hugo-universal-theme/blog/2019/08/02/join/</guid>
       <description>I am proud to announce that Origoss Solutions has joined the Cloud Native Computing Foundation (CNCF).
 CNCF is an open source software foundation dedicated to making cloud native computing universal and sustainable. Cloud native computing uses an open source software stack to deploy applications as microservices, packaging each part into its own container, and dynamically orchestrating those containers to optimize resource utilization. Cloud native technologies enable software developers to build and deploy great products faster.</description>
     </item>
     
     <item>
       <title>Red Hat Advanced Solution Provider</title>
-      <link>https://example.org/blog/2019/07/02/announce/</link>
+      <link>https://origoss.github.io/hugo-universal-theme/blog/2019/07/02/announce/</link>
       <pubDate>Tue, 02 Jul 2019 21:49:20 +0200</pubDate>
       
-      <guid>https://example.org/blog/2019/07/02/announce/</guid>
+      <guid>https://origoss.github.io/hugo-universal-theme/blog/2019/07/02/announce/</guid>
       <description>I am proud to announce that Origoss Solutions is now a Red Hat Advanced Solution Provider with a Cloud Infrastructure / PaaS specialization.
 Red Hat OpenShift is a comprehensive enterprise-grade application platform, built for containers with Kubernetes.
 As a Red Hat Advanced Solution Provider and as a Kubernetes Certified Service Provider, we help our customers in their successful Cloud Native transformation, leveraging our several decades of experience in consulting, developing, supporting legacy network and IT system operation.</description>
@@ -61,30 +61,30 @@ As a Red Hat Advanced Solution Provider and as a Kubernetes Certified Service Pr
     
     <item>
       <title>About us</title>
-      <link>https://example.org/about/</link>
+      <link>https://origoss.github.io/hugo-universal-theme/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/about/</guid>
+      <guid>https://origoss.github.io/hugo-universal-theme/about/</guid>
       <description>OUR VISION We believe in further expansion of Cloud Native technologies. The wide-spread acceptance of open source solutions will play a key role in this. Having realized that, and have been focusing on Cloud Native technologies by actively participating in the open source community.
 As a Kubernetes Certified Service Provider (KCSP), we help our customers in their successful Cloud Native transformation, leveraging our several decades of experience in consulting, developing, supporting legacy network and IT system operation.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://example.org/contact/</link>
+      <link>https://origoss.github.io/hugo-universal-theme/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/contact/</guid>
+      <guid>https://origoss.github.io/hugo-universal-theme/contact/</guid>
       <description>We are here to help you Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
 Please feel free to contact us, our customer service center is working for you 24/7.</description>
     </item>
     
     <item>
       <title>FAQ</title>
-      <link>https://example.org/faq/</link>
+      <link>https://origoss.github.io/hugo-universal-theme/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/faq/</guid>
+      <guid>https://origoss.github.io/hugo-universal-theme/faq/</guid>
       <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
 1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
     </item>
